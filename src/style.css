@@ -192,6 +192,7 @@ body {
 .siteMain .addButtonWrap > .addButton {
     display: flex;
     max-width: 40px;
+    max-height: 40px;
     border: none;
     border-radius: 4px;
     background: #FFFFFF;

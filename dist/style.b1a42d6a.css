@@ -192,6 +192,7 @@ body {
 .siteMain .addButtonWrap > .addButton {
     display: flex;
     max-width: 40px;
+    max-height: 40px;
     border: none;
     border-radius: 4px;
     background: #FFFFFF;
@@ -202,4 +203,4 @@ body {
     margin: 5px;
 }
 
-/*# sourceMappingURL=style.f9724e6c.css.map */
+/*# sourceMappingURL=style.b1a42d6a.css.map */
